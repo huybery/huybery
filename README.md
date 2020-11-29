@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm huybery</h1>
-<h3 align="center"> I'm a researcher with a strong curiosity about machine learning. </h3>
+<h3 style="color:red;" align="center"> I'm a researcher with a strong curiosity about deep learning & nature language processing. </h3>
 
-<img src="https://raw.githubusercontent.com/huybery/huybery/master/nlp.png" />
+<img src="https://github.com/huybery/huybery/blob/master/nlp.png" />
 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> 
