@@ -1,8 +1,8 @@
-<svg width="100%" height="500px" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg width="100%" height="300px" viewBox="0 0 1700 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  <path id="path">
-		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+		<animate attributeName="d" from="m0,110 h0" to="m0,110 h2100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
 	</path>
-	<text font-size="26" font-family="Helvetica" fill=''>
+	<text font-size="46" font-family="Helvetica">
 		<textPath xlink:href="#path">I'm an enthusiastic researcher of deep learning and nature language processing.
     </textPath>
 	</text>
