@@ -16,9 +16,6 @@
     <a href="https://pytorch.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
     </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank"> 
        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
     </a> 
