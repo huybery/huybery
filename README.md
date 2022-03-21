@@ -3,7 +3,7 @@
 <!--   <h3 style="color:red;" align="center"> I'm a researcher with a strong curiosity about deep learning & nature language processing. </h3> -->
 
 <!--  <img src="https://github.com/huybery/huybery/blob/master/bio.gif" /> -->
-  <img src="https://github.com/huybery/huybery/blob/master/bio.svg" />
+<!--   <img src="https://github.com/huybery/huybery/blob/master/bio.svg" /> -->
 
 
   <img src="https://github.com/huybery/huybery/blob/master/nlp_x.png" />
