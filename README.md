@@ -20,7 +20,6 @@
        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> 
     </a> 
   </p>
-  <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=huybery.huybery" /> </p>
 </div>
 
 <!-- ![ visitors ](https://visitor-badge.glitch.me/badge?page_id=huybery.huybery) -->
