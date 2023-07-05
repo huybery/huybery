@@ -6,9 +6,9 @@
 <!--   <img src="https://github.com/huybery/huybery/blob/master/bio.svg" /> -->
 
 
-  <img src="https://github.com/huybery/huybery/blob/master/nlp_x.png" />
+<!--  <img src="https://github.com/huybery/huybery/blob/master/nlp_x.png" /> -->
   
-
+<!--
   <p align="center"> 
     <a href="https://pytorch.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
@@ -20,7 +20,33 @@
        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> 
     </a> 
   </p>
+-->
 </div>
+
+```python
+class Attributes(huybery):
+    @staticmethod
+    def contact() -> tuple:
+        homepage  = "https://hubyery.github.io"
+        twitter   = "https://twitter.com/huybery"
+        email     = "huybery [at] gmail.com"
+        return homepage, twitter, email
+
+    @staticmethod
+    def research() -> tuple:
+        interesting         = ['Large Language Models', 'Executable Language', 'Embodied Agent', 'Dialog Systems']
+        interesting.pop()   # chatGPT is all your need.
+        paper = "https://scholar.google.com/citations?user=RBb3ItMAAAAJ"
+        return interesting, paper
+
+    @staticmethod
+    def project() -> list:
+        DAMO_ConvAI = "https://github.com/AlibabaResearch/DAMO-ConvAI"
+        Awesome_Code_LLM = "https://github.com/huybery/Awesome-Code-LLM"
+        project_lst = [DAMO_ConvAI, Awesome_Code_LLM]
+        return project_lst
+
+```
 
 <!-- ![ visitors ](https://visitor-badge.glitch.me/badge?page_id=huybery.huybery) -->
 
