@@ -34,7 +34,7 @@ class Attributes(huybery):
 
     @staticmethod
     def research() -> tuple:
-        interesting         = ['Large Language Models', 'Executable Language', 'Embodied Agent', 'Dialog Systems']
+        interesting = ['Large Language Models', 'Executable Language', 'Embodied Agent', 'Dialog Systems']
         interesting.pop()   # chatGPT is all your need.
         paper = "https://scholar.google.com/citations?user=RBb3ItMAAAAJ"
         return interesting, paper
