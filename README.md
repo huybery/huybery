@@ -41,10 +41,11 @@ class Attributes(huybery):
 
     @staticmethod
     def project() -> list:
+        Qwen = "https://github.com/QwenLM/Qwen"
         OctoPack = "https://github.com/bigcode-project/octopack"
         DAMO_ConvAI = "https://github.com/AlibabaResearch/DAMO-ConvAI"
         Awesome_Code_LLM = "https://github.com/huybery/Awesome-Code-LLM"
-        project_lst = [OctoPack, DAMO_ConvAI, Awesome_Code_LLM]
+        project_lst = [Qwen, OctoPack, DAMO_ConvAI, Awesome_Code_LLM]
         return project_lst
 
 ```
