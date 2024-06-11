@@ -43,10 +43,10 @@ class Attributes(huybery):
     def project() -> list:
         OpenDevin = "https://github.com/OpenDevin/OpenDevin"
         Qwen = "https://github.com/QwenLM/Qwen"
+        CodeQwen = "https://github.com/QwenLM/CodeQwen1.5"
         OctoPack = "https://github.com/bigcode-project/octopack"
-        DAMO_ConvAI = "https://github.com/AlibabaResearch/DAMO-ConvAI"
         Awesome_Code_LLM = "https://github.com/huybery/Awesome-Code-LLM"
-        project_lst = [OpenDevin, Qwen, OctoPack, DAMO_ConvAI, Awesome_Code_LLM]
+        project_lst = [OpenDevin, Qwen, CodeQwen, OctoPack, Awesome_Code_LLM]
         return project_lst
 
 ```
